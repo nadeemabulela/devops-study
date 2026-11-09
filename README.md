@@ -14,5 +14,6 @@ to DevOps Engineering.
 ## Lab notes
 This repository documents practical labs and lessons.
 
-## Current progress
-this is still day 1
+## Week 1 Progress
+- Day 1: Git fundamentals — Completed
+- Day 2: GitHub and SSH — In progress
